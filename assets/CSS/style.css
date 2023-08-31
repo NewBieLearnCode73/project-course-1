@@ -69,6 +69,7 @@ a {
     /* margin-top: 130px; */
     display: flex;
     flex-direction: column;
+    justify-content: center;
 }
 
 .navbar{
@@ -117,9 +118,6 @@ a {
     border-radius: 8px;
 }
 
-.hero{
-    margin-top: 130px;
-}
 
 .hero .sub-title{
     color: #687690;
